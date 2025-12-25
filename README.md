@@ -1,6 +1,6 @@
 # 📝 TaskFlow Pro - Enterprise Task Management Platform
 
-> A production-ready, full-stack enterprise task management platform featuring JWT authentication, RESTful APIs, and real-time task tracking. Built with Spring Boot 3.2, React 18, and PostgreSQL, implementing industry-standard security practices and modern architectural patterns.
+> A full-stack task management platform featuring JWT authentication, RESTful APIs, and real-time task tracking. Built with Spring Boot 3.2, React 18, and PostgreSQL, implementing industry-standard security practices and modern architectural patterns.
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen)
